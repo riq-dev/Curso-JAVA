@@ -1,4 +1,4 @@
-package one.digitalinnovation.tipos.naoprimitivos;
+package caracteristicasJava2.tipos.naoprimitivos;
 
 public class NaoPrimitivos {
 

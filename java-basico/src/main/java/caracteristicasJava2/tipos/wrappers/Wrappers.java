@@ -1,4 +1,4 @@
-package one.digitalinnovation.tipos.wrappers;
+package caracteristicasJava2.tipos.wrappers;
 
 public class Wrappers {
 

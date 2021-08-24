@@ -1,4 +1,4 @@
-package one.digitalinnovation.classes.cliente;
+package caracteristicasJava2.classes.cliente;
 
 public class ProgramaDoCliente {
 

@@ -1,4 +1,4 @@
-package one.digitalinnovation.tipos.tipagem;
+package caracteristicasJava2.tipos.tipagem;
 
 public class TipagemForte {
 

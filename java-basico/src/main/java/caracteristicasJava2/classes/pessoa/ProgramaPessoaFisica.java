@@ -1,4 +1,4 @@
-package one.digitalinnovation.classes.pessoa;
+package caracteristicasJava2.classes.pessoa;
 
 public class ProgramaPessoaFisica {
 

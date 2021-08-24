@@ -1,4 +1,4 @@
-package one.digitalinnovation.enums;
+package caracteristicasJava2.enums;
 
 public enum  TipoVeiculo {
 

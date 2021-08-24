@@ -1,4 +1,4 @@
-package one.digitalinnovation.classes.usuario;
+package caracteristicasJava2.classes.usuario;
 
 public class ProgramaDoSuperUsuario {
 

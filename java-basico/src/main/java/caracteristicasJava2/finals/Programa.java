@@ -1,4 +1,4 @@
-package one.digitalinnovation.finals;
+package caracteristicasJava2.finals;
 
 public class Programa {
 

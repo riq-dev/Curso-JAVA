@@ -1,4 +1,4 @@
-package caracteristicas.java.strings;
+package caracteristicasJava.strings;
 
 public class StringBuilder {
 

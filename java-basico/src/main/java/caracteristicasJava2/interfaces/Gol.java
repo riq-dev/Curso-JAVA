@@ -1,4 +1,4 @@
-package one.digitalinnovation.interfaces;
+package caracteristicasJava2.interfaces;
 
 public class Gol implements Carro {
 

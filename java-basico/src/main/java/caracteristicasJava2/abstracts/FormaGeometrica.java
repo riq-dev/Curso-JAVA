@@ -1,4 +1,4 @@
-package one.digitalinnovation.abstracts;
+package caracteristicasJava2.abstracts;
 
 public abstract class FormaGeometrica {
 

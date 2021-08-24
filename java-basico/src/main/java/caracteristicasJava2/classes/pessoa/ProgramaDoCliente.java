@@ -1,6 +1,6 @@
-package one.digitalinnovation.classes.pessoa;
+package caracteristicasJava2.classes.pessoa;
 
-import one.digitalinnovation.classes.cliente.Cliente;
+import caracteristicasJava2.classes.cliente.Cliente;
 
 public class ProgramaDoCliente {
 

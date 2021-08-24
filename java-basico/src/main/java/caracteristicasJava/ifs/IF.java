@@ -1,4 +1,4 @@
-package caracteristicas.java.ifs;
+package caracteristicasJava.ifs;
 
 public class IF {
 

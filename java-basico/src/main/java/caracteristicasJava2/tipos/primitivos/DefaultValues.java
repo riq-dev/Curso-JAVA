@@ -1,4 +1,4 @@
-package one.digitalinnovation.tipos.primitivos;
+package caracteristicasJava2.tipos.primitivos;
 
 public class DefaultValues {
 

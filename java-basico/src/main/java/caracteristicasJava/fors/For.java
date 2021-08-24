@@ -1,4 +1,4 @@
-package caracteristicas.java.fors;
+package caracteristicasJava.fors;
 
 public class For {
 

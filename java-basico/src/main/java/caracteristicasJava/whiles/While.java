@@ -1,4 +1,4 @@
-package caracteristicas.java.whiles;
+package caracteristicasJava.whiles;
 
 public class While {
 

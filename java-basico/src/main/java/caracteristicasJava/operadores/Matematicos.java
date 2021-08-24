@@ -1,4 +1,4 @@
-package caracteristicas.java.operadores;
+package caracteristicasJava.operadores;
 
 public class Matematicos {
 

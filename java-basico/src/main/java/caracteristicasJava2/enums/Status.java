@@ -1,4 +1,4 @@
-package one.digitalinnovation.enums;
+package caracteristicasJava2.enums;
 
 public enum Status {
     OPEN(13, "Aberto"),

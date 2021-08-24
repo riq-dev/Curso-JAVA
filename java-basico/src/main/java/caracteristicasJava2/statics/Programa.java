@@ -1,4 +1,4 @@
-package one.digitalinnovation.statics;
+package caracteristicasJava2.statics;
 
 public class Programa {
 

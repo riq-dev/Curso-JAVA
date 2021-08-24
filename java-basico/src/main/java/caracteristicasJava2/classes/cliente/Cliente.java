@@ -1,6 +1,6 @@
-package one.digitalinnovation.classes.cliente;
+package caracteristicasJava2.classes.cliente;
 
-import one.digitalinnovation.classes.pessoa.Pessoa;
+import caracteristicasJava2.classes.pessoa.Pessoa;
 
 public class Cliente extends Pessoa {
 

@@ -1,6 +1,6 @@
-package one.digitalinnovation.classes.pessoa;
+package caracteristicasJava2.classes.pessoa;
 
-import one.digitalinnovation.classes.usuario.SuperUsuario;
+import caracteristicasJava2.classes.usuario.SuperUsuario;
 
 public class Usuario extends SuperUsuario {
 
